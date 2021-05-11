@@ -1,4 +1,4 @@
-# Bayesian Statistics 
+# Bayesian Statistics for equity mouvements' prediction
 
 We used bayesian statistics methods with a view to __predicting equity market's mouvement__. During the backtest (on the _S&P 500_ index), we obtained a performance of +1.83% on a 10 days period. 
 
